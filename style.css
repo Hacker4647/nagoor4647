@@ -6,7 +6,7 @@
 }
 .bannerBgImg{
 height: 100vh;
-background-image: url("/bannar.jpg");
+background-image: url("../nagoor4647/bannar.jpg");
 background-size: cover;
 position: relative;
 }
